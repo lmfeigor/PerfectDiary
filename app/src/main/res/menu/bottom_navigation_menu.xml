@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        android:orderInCategory="0" />
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="Search"
+        android:orderInCategory="1" />
+
+    <item
+        android:id="@+id/add"
+        android:icon="@drawable/ic_add"
+        android:title="Add"
+        android:orderInCategory="2" />
+
+    <item
+        android:id="@+id/emotion"
+        android:icon="@drawable/ic_emotion"
+        android:title="Emotion"
+        android:orderInCategory="3" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person"
+        android:title="Profile"
+        android:orderInCategory="4" />
+</menu>

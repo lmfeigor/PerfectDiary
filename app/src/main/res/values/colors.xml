@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Pastel and Light Colors -->
+    <color name="light_pink">#FFF0F5</color>
+    <color name="light_blue">#E6F2FF</color>
+    <color name="light_yellow">#f1e7c9</color>
+    <color name="light_red">#FFE4E1</color>
+    <color name="light_gray">#F5F5F5</color>
+
+    <!-- Accent Colors -->
+    <color name="dark_blue">#2a4b8d</color>
+</resources>
